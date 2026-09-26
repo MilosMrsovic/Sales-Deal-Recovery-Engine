@@ -1,0 +1,10 @@
+{
+  "company": "Northwind Dental",
+  "classification": "FOLLOW_UP_RECOMMENDED",
+  "confidence": "HIGH",
+  "reason": "A detailed proposal was sent on 2026-09-26 with clear pricing and timeline. It has been 24 days with no reply from the customer, and nothing in the thread indicates a decline, a request to pause contact, or a specific future decision date. The overdue task also signals this deal needs an action now.",
+  "subject": "Following up on the booking automation proposal",
+  "body": "Hi Laura,\n\nJust checking in on the proposal I sent over for the patient booking automation. Did you have a chance to look it over?\n\nHappy to answer any questions or jump on a quick call if that would help.\n\nBest,\nMilos",
+  "safetyGate": "FOLLOW_UP_RECOMMENDED + HIGH + written email. Allowed to send.",
+  "finalAction": "SEND_AI_FOLLOWUP"
+}

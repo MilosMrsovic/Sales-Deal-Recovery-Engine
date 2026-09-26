@@ -1,0 +1,15 @@
+{
+  "deal": {
+    "id": "opp_northwind",
+    "company": "Northwind Dental",
+    "value": 8500,
+    "contactName": "Laura Bennett",
+    "contactEmail": "laura@example.com"
+  },
+  "state": "PROPOSAL_STALE",
+  "risk": "HIGH",
+  "reason": ["Proposal sent, 24 days in stage with no reply", "Has an overdue task"],
+  "recommendedAction": "ANALYZE_CONTEXT",
+  "aiRequired": true,
+  "humanReviewRequired": false
+}

@@ -1,0 +1,13 @@
+{
+  "opportunityId": "opp_harbor",
+  "companyName": "Harbor Fitness",
+  "state": "PROPOSAL_STALE",
+  "risk": "HIGH",
+  "action": "NOTIFY_OWNER",
+  "reason": "WAIT: customer only approves new vendors at the November board budget meeting",
+  "automationType": "AI",
+  "aiUsed": true,
+  "aiConfidence": "HIGH",
+  "emailSent": false,
+  "ownerId": ""
+}
