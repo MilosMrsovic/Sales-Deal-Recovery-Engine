@@ -2,6 +2,8 @@
 
 **Most sales pipelines don't lose deals. They forget them.**
 
+Built by [Heaq Digital](https://heaqdigital.com), an automation studio for US service businesses. Full write-up: Stale deal follow-up automation https://heaqdigital.com/stale-deal-follow-up-automation
+
 A proposal gets sent. The customer goes quiet. The opportunity stays open in the CRM, and everyone assumes someone is on it.
 
 Nobody is.
